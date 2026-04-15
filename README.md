@@ -50,7 +50,7 @@ A comprehensive Linux system hardening tool that audits systems against security
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/linux-hardener.git
+git clone https://github.com/joshuaguda281-stack/linux-hardener.git
 cd linux-hardener
 
 # No dependencies required! Python 3.6+ only

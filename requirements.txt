@@ -1,0 +1,9 @@
+# Linux Hardener Dependencies
+# Core functionality uses only Python standard library!
+# os, subprocess, sys, json, re, grp, pwd, pathlib, datetime, argparse are all built-in
+
+# No external dependencies required!
+# This tool works with Python 3.6+ out of the box
+
+# For colored output (optional - built into the script):
+# colorama>=0.4.6  # Not required, script has its own color implementation
